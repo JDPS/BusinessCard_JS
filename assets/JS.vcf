@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Soares;João
+FN:João Soares
+ORG:INEGI
+TITLE:Senior Researcher
+EMAIL;PREF;INTERNET:jsoares@inegi.up.pt
+TEL;WORK;VOICE:+351 22 CCC
+ADR;WORK;PREF:;;Rua Dr. Roberto Frias;400
+REV:1
+END:VCARD
